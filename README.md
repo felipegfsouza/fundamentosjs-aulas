@@ -27,6 +27,6 @@ It's free!
 **Cloning the Repository**
 
 ```
-$ git clone https:
+$ git clone https://github.com/felipegfsouza/fundamentosjs-aulas.git
 
 ```
