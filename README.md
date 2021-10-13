@@ -1,4 +1,7 @@
 # Memory Game
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
 ![Preview-Screens](https://user-images.githubusercontent.com/68368843/137216669-2d8e7625-c6e0-4a3b-9f92-970fa281cd39.png)
 
@@ -20,9 +23,13 @@ Also, you can use this Project as you wish, be for study, be for make improvemen
 
 It's free!
 
-## Some Observations about this App
+## 🚀 Tecnologias
 
-1 - There's no functionality of Login/Register, the buttons and the forms in the Login Screen are only for UI matters.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
 
 **Cloning the Repository**
 
