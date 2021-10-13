@@ -1,4 +1,4 @@
-# Memory Game
+# Memory Game 🎮
 <p align="center">
   <a href="#about-this-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#why">Why</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
