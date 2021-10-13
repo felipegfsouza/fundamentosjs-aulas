@@ -30,3 +30,6 @@ It's free!
 $ git clone https://github.com/felipegfsouza/fundamentosjs-aulas.git
 
 ```
+---
+
+Creditos ao criador https://erickwendel.com.br/ 
