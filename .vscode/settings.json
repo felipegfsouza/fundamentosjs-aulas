@@ -1,0 +1,7 @@
+{
+  "editor.fontLigatures": false,
+  "workbench.colorTheme": "Default Dark+",
+  "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+
+  "editor.tabSize": 4
+}
