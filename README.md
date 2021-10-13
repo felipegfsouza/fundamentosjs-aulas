@@ -7,7 +7,7 @@
 
 ![Preview-Screens](https://user-images.githubusercontent.com/68368843/137216669-2d8e7625-c6e0-4a3b-9f92-970fa281cd39.png)
 
-## About this Project
+## 👋 About this Project
 
 The idea of the App is:
 
@@ -15,7 +15,7 @@ _"A simple game to test my javascript knowledge"._
 
 **PS:** Memory game was just the context chosen by me for this project, but all the code inside this app can be reused for any app!
 
-## Why?
+## 🤔 Why?
 
 This project is part of a javscript fundamentals training given by Erick wendel so I'll be glad if you can provide some feedback about the project, code, structure or anything you can report that might make me a better developer!
 
