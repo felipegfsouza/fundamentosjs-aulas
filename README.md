@@ -1,6 +1,7 @@
 # Memory Game
 <p align="center">
-  <a href="#about-this-project">About</a>&nbsp;&nbsp;&nbsp;
+  <a href="#about-this-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#why">Why</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
